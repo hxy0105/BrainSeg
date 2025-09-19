@@ -1,0 +1,6 @@
+name: RP
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: E:\path\to\your\environments\RP
